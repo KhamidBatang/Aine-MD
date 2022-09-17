@@ -52,8 +52,7 @@ Hai, %ucapan %name! 👋
   header: ' *%category*',
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
-  after: `*Made by ♡*
-*%npmname* | %version
+  after: `*REX-MD* | %version
 ${'```%npmdesc```'}
 `,
 }
